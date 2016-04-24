@@ -1,2 +1,3 @@
 # calcalc
-This is a repo for Telegram's Bot. The purpose of CalCalc is to calculate 
+The purpose of CalCalc is to calculate calories eaten and compare it to person's daily norm.
+Nothing to do here, please move along)
